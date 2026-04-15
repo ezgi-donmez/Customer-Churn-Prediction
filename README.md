@@ -39,14 +39,6 @@ More specifically, the analysis aims to answer questions such as:
 ## Dataset
 The dataset used in this project is the e-commerce customer churn dataset provided in the homework.
 
-### Dataset summary
-- **Observations:** 5,630
-- **Variables:** 20
-- **Target variable:** `Churn`
-- **Class balance:** moderately imbalanced
-
-The dataset includes both numerical and categorical features related to customer profile, order behavior, engagement, complaints, payment preference, and rewards.
-
 ### Example feature groups
 - **Customer behavior:** Tenure, DaySinceLastOrder, OrderCount, CouponUsed
 - **Customer experience:** SatisfactionScore, Complain, WarehouseToHome
