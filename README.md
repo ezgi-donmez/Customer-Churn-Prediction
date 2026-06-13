@@ -1,3 +1,9 @@
+## License
+
+This project is licensed under the MIT License for the source code.
+
+The datasets used in this project are provided for academic/course purposes and are not redistributed under this license.
+
 # Customer Churn Prediction
 
 ## Project Overview
